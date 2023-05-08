@@ -53,3 +53,5 @@ A: You can send me a log, but preferably to the creators!
 | ------------- | ------------- |
 | 1.19.4              |      Main          |
 | 1.16.5,1.18.2| LTS  |
+
+Info was updated on 05/08/2023
