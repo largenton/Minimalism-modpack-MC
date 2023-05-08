@@ -27,10 +27,6 @@ Q How to support the modpack?
 
 A: No, better support the creators of mods
 
-Q: Something went wrong!
-
-A: You can send me a log, but preferably to the creators!
-
 **Version support(Sodium):**
 
 | Version  | support |
