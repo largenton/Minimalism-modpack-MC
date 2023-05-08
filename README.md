@@ -49,5 +49,6 @@ A: No, better support the creators of mods
 | ------------- | ------------- |
 | 1.19.4              |      Main          |
 | 1.16.5,1.18.2| LTS  |
+|all older versions| not supported  |
 
 Info was updated on 05/08/2023
